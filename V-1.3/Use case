@@ -1,0 +1,21 @@
+Use case
+1.Add btn to add new user window
+
+1.User window
+	 consist of 
+	a)Display window 
+	b)Input bar
+	c)Send btn
+
+3. click on send should display on dispaly window
+4. if multiple windows is opened all should get updated.(Event trigger and listen)
+5.Previous Chat should be stored.(Prototype).
+
+
+
+
+flow=
+
+1.Add should append a Div(container CSS)
+2.Main Html should go inside.
+3.Object.Create
